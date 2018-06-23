@@ -8,3 +8,5 @@ game.Players.OnPlayerAdded:connect(function(asdd)
 if pban[asdd.UserId] then
 banfunction(asdd)
 end)
+    
+    --yes
